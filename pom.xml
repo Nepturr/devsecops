@@ -8,5 +8,6 @@
     <properties>
         <sonar.projectKey>TEST</sonar.projectKey>
         <sonar.host.url>http://192.168.1.192:9000/</sonar.host.url>
+         <sonar.login>votre token</sonar.login>
     </properties>
 </project>
